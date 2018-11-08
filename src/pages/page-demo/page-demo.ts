@@ -7,7 +7,7 @@
  */
 
 //引入需要的框架核心
-import {Component, Input} from '@angular/core';
+import {Component} from '@angular/core';
 import {IonicPage, NavController, NavParams} from 'ionic-angular';
 
 

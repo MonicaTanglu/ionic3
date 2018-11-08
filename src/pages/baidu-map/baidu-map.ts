@@ -6,7 +6,7 @@ import {GeolocationProvider} from '../../providers/geolocation/geolocation';
 
 // baidu map
 declare var BMap;
-declare var BMap_Symbol_SHAPE_POINT;
+// declare var BMap_Symbol_SHAPE_POINT;
 
 @IonicPage()
 @Component({

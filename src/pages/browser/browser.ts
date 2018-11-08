@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams ,PopoverController} from 'ionic-angular';
 import { DomSanitizer } from "@angular/platform-browser";
-import { BrowserPopoverPage } from "./browser-popover";
+// import { BrowserPopoverPage } from "./browser-popover";
 
 /**
  * Generated class for the BrowserPage page.

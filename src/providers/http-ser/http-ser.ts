@@ -115,9 +115,6 @@ export class HttpSerProvider {
         // return key + '=' +(value === null ? '' : String(value));
     }
 
-    private toSignPair(key, value) {
-        return key + '=' + (value === null ? '' : String(value));
-    }
 
     private extractData(res:Response) {
         let body = res.json();
